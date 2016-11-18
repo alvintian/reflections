@@ -1,0 +1,6 @@
+git init initializes a new get repository as .git
+git add --add to staging area of git
+git status
+staging area
+working directory
+git reset --undo git add
