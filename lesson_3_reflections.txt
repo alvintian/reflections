@@ -2,3 +2,5 @@ git remote (see all current github)
 git remote add name** http:githubblahblah.git
 git remote -v (shows link of fetch and push)
 git push origin master
+
+test of github
